@@ -73,9 +73,19 @@
   
 ## 🌟Projects
   
-  <a href = "https://github.com/moimenta84/Hundir-la-flota"><h3>🔸🎮 Hundir la flota - </h3><p>The classic Battleship game!</p> </a>
-  
-  <a href = "https://github.com/Josher21/koma-coffee"><h3>🔸☕  Koma coffee - </h3><p>My dream business. Passion for coffee and comics.</p> </a>
+### 🎮 Hundir la flota
+The classic Battleship game  
+
+👉 **[See more](https://github.com/Josher21/Hundir-la-flota)**
+
+---
+
+### ☕ Koma Coffee
+My dream business. Passion for coffee and comics.  
+
+👉 **[See more](https://github.com/Josher21/koma-coffee)**
+
+
    <!--
   <a href = "https://josher21.web.app/"><h3>🔸🎴 My Portfolio Website</h3></a>
   -->
@@ -88,29 +98,32 @@
  ## 📊 Stats
 
 <p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Josher21&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Josher21"/>
-
+  <img style="width:48%" src="https://github-readme-stats.vercel.app/api?username=Josher21&show_icons=true&theme=tokyonight" />
+  <img style="width:48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josher21&layout=compact&theme=tokyonight" />
+  <!--![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Josher21&repo=koma-coffee&theme=tokyonight)-->
 </p>
+
      
   </td>
  </tr>
 
  </br>
  
-## 🔥 My Motto
+## 🚀 Code Philosophy
 
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Josher21);....+s.explore();....+s.learn();....+s.contribute()"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1800&color=58A6FF&background=0D1117&multiline=true&width=650&height=200&lines=while(true)%20%7B;..initBrain();..if(world.includes(%22open%20source%22))%20%7B;....const%20dev%20%3D%20login(%22Josher21%22);....dev.explore();....dev.learn();....dev.contribute();..%7D;%7D" />
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https:www.linkedin.com/in/joseluis-sanchez-hernandez"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:sanchezhernandez21987@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+<a href="https://www.linkedin.com/in/joseluis-sanchez-hernandez" target="_blank" rel="noopener noreferrer">
+  <img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sanchezhernandez2198@gmail.com">
+  <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 </br>
 </br>

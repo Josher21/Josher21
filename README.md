@@ -13,8 +13,9 @@
 
 - 🔧 I’m currently student on ...Web Application Development and learning on my own by building personal projects.
 - 💡 I’m curious about ...software development and cybersecurity.
-- 📖 I’m currently learning ...web development frameworks.
+- 📖 I’m currently learning ...structured applications, web development frameworks and web application deployments.
 - ❄️ I’m looking to collaborate on ...Open Source projects or small business ideas.
+- 👾​ I'm hooked on ...Doing outdoor sports, assembling or maintaining computers, and keeping up to date with the teck-world.
 - 📫 How to reach me ...sanchezhernandez2198@gmail.com.
 
 <hr>
@@ -40,20 +41,20 @@
 #### Development
 
 ![Laravel](https://img.shields.io/badge/Laravel-20232A?style=flat&logo=laravel&logoColor=orange)
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-20232A?style=flat&logo=hibernate&logoColor=CCCA54)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
 
 #### Tools and Technologies
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 

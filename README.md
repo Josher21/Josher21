@@ -44,7 +44,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-20232A?style=flat&logo=hibernate&logoColor=CCCA54)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-D22128?logo=nginx&logoColor=white)
 
 #### Database
 
